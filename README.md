@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Emre UCAR! I'm currently a freshman majoring in computer science at Bilkent University. I'm hoping to learn Java.
 
 <!--
 **Emre-Ucarr/Emre-Ucarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
